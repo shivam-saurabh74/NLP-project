@@ -36,8 +36,8 @@ This project implements a duplicate question classifier for Quora using Natural 
   Displayed key insights about the feature importance for the final model.
 # Result :
 Achieved accuracy-
-Random Forest: 78.4%
-XGBoost: 79.2%
+  Random Forest: 78.4%
+  XGBoost: 79.2%
 
 The link for Dataset is given below:
 https://www.kaggle.com/c/quora-question-pairs

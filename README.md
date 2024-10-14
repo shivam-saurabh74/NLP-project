@@ -27,14 +27,17 @@ This project implements a duplicate question classifier for Quora using Natural 
 # Model Building:
   Implemented and tested various machine learning models:
   Logistic Regression.
-  Support Vector Machines (SVM).
   Random Forests.
+  XGboost.
   Used performance metrics like Accuracy, F1-Score, and ROC-AUC to evaluate the models.
   
 # Evaluation & Results
   Compared models and selected the best-performing model for final classification.
   Displayed key insights about the feature importance for the final model.
-
+# Result :
+Achieved accuracy-
+Random Forest: 78.4%
+XGBoost: 79.2%
 
 The link for Dataset is given below:
 https://www.kaggle.com/c/quora-question-pairs
